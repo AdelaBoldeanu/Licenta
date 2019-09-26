@@ -1,0 +1,52 @@
+.login-col{
+    margin-right:7%; 
+    margin-top: 55px;
+}
+.login{
+    color: black;
+    font-weight: bold;
+}
+
+.afiseazaCont
+{
+    text-align: center;
+    margin: auto;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th {
+  background-color: #9d9d9e;
+  color: white;
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover 
+{
+    background-color:#f5f5f5;
+}
+.dropdown-toggle{
+    color: black !important;
+}
+.dropdown-toggle:hover{
+    color: black !important;
+}
+.dropdown-menu
+{
+    background-color: rgba(255, 255, 255, 0.6);
+}
+.ButtonNotif
+{
+    background-color: rgba(255,255,255,0);
+    border: 0;
+    font-size:24px
+}
+.dropdown-item:hover
+{
+    background-color: #d5dfe8 !important;
+}

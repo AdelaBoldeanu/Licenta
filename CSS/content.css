@@ -1,0 +1,14 @@
+.content
+{
+    margin-top: 220px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.active
+{
+    background-color: rgba(8, 8, 8, 0.2);
+}
+.deconectare
+{
+    background-color: brown;
+}
